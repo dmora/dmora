@@ -1,10 +1,10 @@
 # Welcome to My Personal Page
 
-Greetings! I am [Your Name], and this is my personal page on GitHub. Here, you will find information about me and some useful links.
+Greetings! I am David, and this is my personal page on GitHub. Here, you will find information about me and some useful links.
 
 ## About Me
 
-I am a [Your Occupation or Area of Expertise]. I am passionate about [Your Passion or Interest], and in my free time, I enjoy [Your Hobbies or Interests].
+I am a Senior Engineering MAnager. I am passionate about everything technology related, and in my free time, I enjoy Asados, roadtrips and my farms.
 
 ## Useful Links
 
