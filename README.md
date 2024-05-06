@@ -13,4 +13,4 @@ I am a [Your Occupation or Area of Expertise]. I am passionate about [Your Passi
 
 ## SSH Public Key
 
-If you require access to my SSH public key, you can find it [here](https://github.com/dmora/id_rsa.pub).
+If you require access to my SSH public key, you can find it [here](https://raw.githubusercontent.com/dmora/dmora/main/id_rsa.pub).
