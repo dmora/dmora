@@ -4,7 +4,7 @@ Greetings! I am David, and this is my personal page on GitHub. Here, you will fi
 
 ## About Me
 
-I am a Senior Engineering MAnager. I am passionate about everything technology related, and in my free time, I enjoy Asados, roadtrips and my farms.
+I am a Senior Engineering Manager. I am passionate about everything technology related, and in my free time, I enjoy Asados, roadtrips and my farms.
 
 ## Useful Links
 
